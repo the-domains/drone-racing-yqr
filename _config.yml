@@ -1,4 +1,3 @@
-layout_spectrum: 0.8464976830873638
 typography_spectrum: 0.4620512432884425
 color:
   brandStrength: 0.7443650453351438
@@ -11,5 +10,7 @@ color:
     - '#CCCC52'
     - '#8FB359'
     - '#192B33'
+layout_spectrum: 0.8464976830873638
 name: Drone Racing YQR
 title: Get Your Drone On
+description: FPV Racing Excitement
